@@ -553,7 +553,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: 'Home '
-  metaDescription: ''
+  metaDescription: BOTCOIN
   socialImage: /images/photo_2025-03-13_02-38-45.jpg
   type: Seo
   addTitleSuffix: false
