@@ -229,10 +229,12 @@ sections:
       - type: FeaturedItem
         title: AI Content & Digital Publishing
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Content creators can accept BOT as payment or tips for AI-generated
+          music, art, and articles, promoting a decentralized content economy.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
