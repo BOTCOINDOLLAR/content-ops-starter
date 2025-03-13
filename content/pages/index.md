@@ -441,8 +441,6 @@ sections:
 
           *   **Blockchain:** Solana
 
-          *   **Contract Address:** 
-
           *   **Total Supply:** 1,000,000,000 BOT
 
           *   **Decimals:** 9
