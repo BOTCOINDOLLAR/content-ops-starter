@@ -464,7 +464,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: 4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
+        price: ''
         details: per month
         description: >+
           <div style="text-align:
