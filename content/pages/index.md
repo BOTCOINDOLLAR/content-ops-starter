@@ -199,10 +199,12 @@ sections:
       - type: FeaturedItem
         title: Reward & Loyalty Programs
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Businesses can use BOT for customer rewards, cashback, and engagement
+          incentives, driving adoption and network growth.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
