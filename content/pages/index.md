@@ -464,7 +464,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: ''
+        price: Contract Address
         details: per month
         description: >+
           <div style="text-align:
