@@ -259,10 +259,13 @@ sections:
       - type: FeaturedItem
         title: Cross-Border Transactions
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          BOT enables freelancers and AI-driven platforms to process instant,
+          low-cost international payments without the need for traditional
+          banking intermediaries.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
