@@ -487,9 +487,24 @@ sections:
         title: ''
         price: DEX
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          1. 
+          https\://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon
+
+
+          2\.
+
+
+          3\.
+
+
+          4\.
+
+
+          5;
+
+
+          6\.
         features: []
         image:
           type: ImageBlock
