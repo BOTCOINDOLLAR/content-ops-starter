@@ -3,10 +3,8 @@ title: 'Phase 1: Development & Launch'
 slug: case-study-1
 date: '2022-12-05'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Smart contract deployment on Solana ✅Website & social channels launch ✅Initial
+  exchange listings ✅Whitepaper release ✅
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 1
