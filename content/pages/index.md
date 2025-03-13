@@ -554,7 +554,7 @@ sections:
 seo:
   metaTitle: 'Home '
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/photo_2025-03-13_02-38-45.jpg
   type: Seo
 type: PageLayout
 ---
