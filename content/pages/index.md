@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      The rapid development of artificial intelligence (AI) and blockchain
+      technology has created a demand for efficient, automated financial
+      transactions. Botcoin (BOT) serves as a bridge between AI services and
+      decentralized finance (DeFi), enabling seamless payments, smart contracts,
+      and governance mechanisms.
+
+
+
     actions:
       - label: Get started
         altText: ''
