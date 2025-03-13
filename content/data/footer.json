@@ -26,7 +26,7 @@
                 "type": "Link",
                 "label": "JOIN",
                 "altText": "",
-                "url": "/",
+                "url": "",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
