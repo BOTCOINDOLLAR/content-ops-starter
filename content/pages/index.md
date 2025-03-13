@@ -464,7 +464,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Professional
-        price: $99
+        price: 4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
