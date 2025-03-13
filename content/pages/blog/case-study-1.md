@@ -1,7 +1,7 @@
 ---
 title: 'Phase 1: Development & Launch'
 slug: case-study-1
-date: '2022-01-05'
+date: '2022-12-05'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
