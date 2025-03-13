@@ -470,8 +470,7 @@ sections:
           <div style="text-align:
           center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
 
-        features:
-          - Feature two
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
