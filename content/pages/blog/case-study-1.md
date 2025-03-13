@@ -79,7 +79,7 @@ styles:
 type: PostLayout
 featuredImage:
   type: ImageBlock
-  url: /images/hero2.svg
+  url: /images/Screenshot 2025-03-13 062939.png
   altText: Image alt text placeholder
   elementId: ''
   styles:
