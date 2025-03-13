@@ -466,9 +466,13 @@ sections:
         title: Professional
         price: 4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          <div style="text-align:
+          center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
+
+
+          </div>
+
         features:
           - Feature one
           - Feature two
