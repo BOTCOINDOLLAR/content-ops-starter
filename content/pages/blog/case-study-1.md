@@ -5,13 +5,6 @@ date: '2022-12-05'
 excerpt: >-
   Smart contract deployment on Solana ✅Website & social channels launch ✅Initial
   exchange listings ✅Whitepaper release ✅
-featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 1
-  styles:
-    self:
-      borderRadius: large
-  type: ImageBlock
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
