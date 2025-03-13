@@ -488,23 +488,20 @@ sections:
         price: DEX
         details: ''
         description: >
-          1. 
-          https\://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon
+          1.  
+          [dexscreener.com](https://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon)
 
 
-          2\.
+          2\.  
+          [rugcheck.xyz](https://rugcheck.xyz/tokens/4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
 
 
-          3\.
+          3\.  
+          [gmgn.ai](https://gmgn.ai/sol/token/solscan_4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
 
 
-          4\.
-
-
-          5;
-
-
-          6\.
+          4\.  
+          [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/en/lp/CPC8B4tADdrduVk5cjdDReyCVcuMkRDHTR9ktcAGVxBJ)
         features: []
         image:
           type: ImageBlock
