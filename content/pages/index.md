@@ -466,7 +466,7 @@ sections:
         details: ''
         description: >+
           <div style="text-align:
-          left">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
+          left">![](/images/Screenshot%202025-03-13%20081027.png)</div>
 
         features: []
         image:
