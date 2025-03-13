@@ -20,7 +20,7 @@
     "type": "Footer",
     "secondaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "TELEGRAM",
+        "title": "",
         "links": [
             {
                 "type": "Link",
