@@ -82,10 +82,13 @@ sections:
               borderRadius: x-large
       - title: Micropayments & Machine-to-Machine (M2M) Transactions
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Smart contracts and IoT devices use BOT for instant, low-cost
+          transactions. Examples include smart cars paying tolls and AI-powered
+          cloud services charging per second of usage.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
