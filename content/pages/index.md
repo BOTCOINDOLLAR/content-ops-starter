@@ -492,7 +492,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature two
-          - Feature three
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
