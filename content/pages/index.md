@@ -436,9 +436,21 @@ sections:
         title: ''
         price: Token Details
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          *   **Token Name:** Botcoin (BOT)
+
+          *   **Blockchain:** Solana
+
+          *   **Contract Address:** 4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
+
+          *   **Total Supply:** 1,000,000,000 BOT
+
+          *   **Decimals:** 9
+
+
+
+
+
         features:
           - Feature three
           - Feature four
