@@ -471,7 +471,6 @@ sections:
           center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
