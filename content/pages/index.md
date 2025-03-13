@@ -51,10 +51,13 @@ sections:
       - type: FeaturedItem
         title: AI-Powered Payments
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          BOT enables automated, real-time payments for AI services, cloud
+          computing, and API usage. Businesses and developers can seamlessly
+          integrate BOT into AI-driven platforms.
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
