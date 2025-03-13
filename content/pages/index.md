@@ -374,7 +374,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: VIDEO SECTION
       color: text-dark
       styles:
         self:
