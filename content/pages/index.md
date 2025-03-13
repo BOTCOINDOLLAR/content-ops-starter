@@ -361,7 +361,7 @@ sections:
     title:
       type: TitleBlock
       text: Roadmap
-      color: text-dark
+      color: text-light
   - title: Divider
     colors: bg-light-fg-dark
     styles:
