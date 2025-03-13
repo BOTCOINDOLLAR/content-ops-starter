@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/photo_2025-03-13_02-38-45.jpg",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Pricing",
