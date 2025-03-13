@@ -433,7 +433,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Token Details
         details: No credit card required
         description: >-
