@@ -441,15 +441,11 @@ sections:
 
           *   **Blockchain:** Solana
 
-          *   **Contract Address:** 4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
+          *   **Contract Address:** 
 
           *   **Total Supply:** 1,000,000,000 BOT
 
           *   **Decimals:** 9
-
-
-
-
 
         features: []
         image:
