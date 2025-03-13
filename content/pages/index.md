@@ -197,7 +197,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: Reward & Loyalty Programs
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
