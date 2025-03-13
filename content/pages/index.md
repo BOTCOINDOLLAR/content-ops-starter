@@ -137,10 +137,13 @@ sections:
       - type: FeaturedItem
         title: AI & Automation Marketplace
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Developers can sell AI models, automation scripts, and AI-powered
+          tools, while businesses can purchase them using BOT, creating an open
+          marketplace for AI innovation.
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
