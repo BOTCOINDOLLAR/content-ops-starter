@@ -463,7 +463,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: ''
         price: Contract Address
         details: per month
         description: >+
