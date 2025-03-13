@@ -468,10 +468,7 @@ sections:
         details: per month
         description: >+
           <div style="text-align:
-          center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon
-
-
-          </div>
+          center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
 
         features:
           - Feature one
