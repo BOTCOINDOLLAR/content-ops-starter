@@ -466,7 +466,7 @@ sections:
         details: ''
         description: >+
           <div style="text-align:
-          center">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
+          left">4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon</div>
 
         features: []
         image:
