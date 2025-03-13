@@ -1,7 +1,7 @@
 ---
 title: 'Phase 1: Development & Launch'
 slug: case-study-1
-date: '2022-12-05'
+date: ''
 excerpt: >-
   Smart contract deployment on Solana ✅Website & social channels launch ✅Initial
   exchange listings ✅Whitepaper release ✅
