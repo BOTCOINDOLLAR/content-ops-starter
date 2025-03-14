@@ -519,7 +519,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Developers
-        price: Free
+        price: Crypto Market Data Platforms
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
