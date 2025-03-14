@@ -518,7 +518,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Crypto Market Data Platforms
         details: No credit card required
         description: >-
