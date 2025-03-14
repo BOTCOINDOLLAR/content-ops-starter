@@ -520,7 +520,7 @@ sections:
       - type: PricingPlan
         title: ''
         price: Crypto Market Data Platforms
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
