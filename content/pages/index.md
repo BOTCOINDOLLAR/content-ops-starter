@@ -529,7 +529,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: DEX
+        price: DEXs
         details: ''
         description: >
           1.  
