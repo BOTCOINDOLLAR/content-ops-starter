@@ -565,9 +565,20 @@ sections:
         title: ''
         price: CEXs
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          1\.
+
+          2\.
+
+          3\.
+
+          4\.
+
+          5\.
+
+          6\.
+
+          7\.
         features: []
         image:
           type: ImageBlock
