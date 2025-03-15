@@ -485,40 +485,6 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: DEX
-        details: ''
-        description: >
-          1.  
-          [dexscreener.com](https://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon)
-
-
-          2\.  
-          [rugcheck.xyz](https://rugcheck.xyz/tokens/4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
-
-
-          3\.  
-          [gmgn.ai](https://gmgn.ai/sol/token/solscan_4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
-
-
-          4\.  
-          [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/en/lp/CPC8B4tADdrduVk5cjdDReyCVcuMkRDHTR9ktcAGVxBJ)
-        features: []
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: ''
         price: Crypto Market Data Platforms
         details: ''
         description: >+
@@ -551,6 +517,40 @@ sections:
           type: ImageBlock
           url: /images/abstract-background.svg
           altText: Pricing plan 1
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: ''
+        price: DEX
+        details: ''
+        description: >
+          1.  
+          [dexscreener.com](https://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon)
+
+
+          2\.  
+          [rugcheck.xyz](https://rugcheck.xyz/tokens/4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
+
+
+          3\.  
+          [gmgn.ai](https://gmgn.ai/sol/token/solscan_4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
+
+
+          4\.  
+          [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/en/lp/CPC8B4tADdrduVk5cjdDReyCVcuMkRDHTR9ktcAGVxBJ)
+        features: []
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Pricing plan 3
         actions: []
         colors: bg-neutral-fg-dark
         styles:
