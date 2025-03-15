@@ -575,7 +575,7 @@ sections:
 
           6\. OKX
 
-          7\.
+          7.MEXC
         features: []
         image:
           type: ImageBlock
