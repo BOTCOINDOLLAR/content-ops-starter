@@ -529,7 +529,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: DEXs (Decentralized Exchanges)
+        price: DEXs
         details: ''
         description: >+
           1. 
