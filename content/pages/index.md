@@ -574,7 +574,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: VIDEO SECTION
+      text: WANT TO KNOW MORE ABOUT US?
       color: text-dark
       styles:
         self:
