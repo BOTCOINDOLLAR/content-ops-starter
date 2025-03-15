@@ -372,46 +372,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: VIDEO SECTION
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: ''
-    text: |
-      Kindly check the video for more information about our project.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: PricingSection
     title:
       type: TitleBlock
@@ -612,6 +572,46 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: VIDEO SECTION
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+      type: TitleBlock
+    subtitle: ''
+    text: |
+      Kindly check the video for more information about our project.
+    actions: []
+    media:
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+      type: VideoBlock
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
