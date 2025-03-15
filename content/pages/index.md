@@ -596,7 +596,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature two
-          - Feature three
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
