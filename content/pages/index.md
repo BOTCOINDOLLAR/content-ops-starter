@@ -563,7 +563,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Free
+        price: CEX
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
