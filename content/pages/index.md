@@ -563,17 +563,17 @@ sections:
         price: CEXs
         details: ''
         description: |
-          1\.
+          1.  LBANK
 
-          2\.
+          2\. BITMART
 
-          3\.
+          3\. BITGET
 
-          4\.
+          4\. BICONOMY
 
-          5\.
+          5\. BYBIT
 
-          6\.
+          6\. OKX
 
           7\.
         features: []
