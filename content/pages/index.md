@@ -568,8 +568,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
