@@ -593,7 +593,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Hybrid Exchange (HEX)
+        price: Hybrid Exchanges (HEXs)
         details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
