@@ -560,7 +560,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: CEX (Centralized Exchange)
+        price: CEXs (Centralized Exchanges)
         details: ''
         description: |
           1.  LBANK
