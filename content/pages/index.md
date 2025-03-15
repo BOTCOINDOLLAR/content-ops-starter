@@ -531,8 +531,8 @@ sections:
         title: ''
         price: DEXs
         details: ''
-        description: >
-          1.  
+        description: >+
+          1. 
           [dexscreener.com](https://dexscreener.com/solana/4a85xuqgp1pgds568orpx79djaeo2wyfcpneibbamoon)
 
 
@@ -543,9 +543,6 @@ sections:
           3\.  
           [gmgn.ai](https://gmgn.ai/sol/token/solscan_4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
 
-
-          4\.  
-          [photon-sol.tinyastro.io](https://photon-sol.tinyastro.io/en/lp/CPC8B4tADdrduVk5cjdDReyCVcuMkRDHTR9ktcAGVxBJ)
         features: []
         image:
           type: ImageBlock
