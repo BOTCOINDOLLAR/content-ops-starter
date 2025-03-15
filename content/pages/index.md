@@ -593,7 +593,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: ''
-        price: Hybrid Exchanges (HEXs)
+        price: HEXs
         details: ''
         description: |
           1\.
