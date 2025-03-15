@@ -521,9 +521,31 @@ sections:
         title: ''
         price: Crypto Market Data Platforms
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+
+
+          *   [Moontok](https://moontok.io/coins/botcoin) 
+
+
+          *  
+          [Coingem](https://coingem.com/solana/4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon) 
+
+
+          *   [Coinsniper ](https://coinsniper.net/coin/79609)
+
+
+          *  
+          [Top100token](https://top100token.com/address/4A85xuQgp1pGdS568orpx79djaEo2wyFCpNEibbamoon)
+
+
+          *   [CoinDiscovery](https://coindiscovery.app/coin/botcoin/overview) 
+
+
+          *   Coinmarketcap
+
+
+          *   Coingeko 
+
         features: []
         image:
           type: ImageBlock
