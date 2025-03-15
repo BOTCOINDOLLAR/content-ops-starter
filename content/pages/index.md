@@ -595,9 +595,12 @@ sections:
         title: ''
         price: Hybrid Exchanges (HEXs)
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          1\.
+
+          2\.
+
+          3\.
         features: []
         image:
           type: ImageBlock
