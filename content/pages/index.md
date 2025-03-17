@@ -583,16 +583,7 @@ sections:
     subtitle: ''
     text: |
       Kindly check the video for more information about our project.
-    actions:
-      - type: Link
-        label: YouTube
-        altText: ''
-        url: /
-        showIcon: true
-        icon: youtube
-        iconPosition: left
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=iN5crzLsu7s'
