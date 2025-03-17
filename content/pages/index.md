@@ -586,7 +586,7 @@ sections:
     actions:
       - type: Link
         label: YouTube
-        altText: YouTube
+        altText: ''
         url: /
         showIcon: true
         icon: youtube
