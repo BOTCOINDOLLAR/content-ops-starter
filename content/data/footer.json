@@ -12,6 +12,13 @@
             "url": "https://x.com/botcoindollar",
             "icon": "twitter",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@botcoindollar",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [],
