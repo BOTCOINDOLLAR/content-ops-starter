@@ -595,7 +595,7 @@ sections:
         elementId: ''
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=iN5crzLsu7s'
       autoplay: true
       loop: true
       muted: true
