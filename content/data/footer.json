@@ -59,7 +59,7 @@
             },
             {
                 "type": "Link",
-                "label": "Pricing",
+                "label": "Legal",
                 "altText": "",
                 "url": "/pricing",
                 "showIcon": false,
