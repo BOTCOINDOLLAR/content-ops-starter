@@ -70,7 +70,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
