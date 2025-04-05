@@ -50,6 +50,17 @@
                 "style": "secondary",
                 "elementId": "",
                 "label": "JOIN US ON DISCORD"
+            },
+            {
+                "type": "Button",
+                "label": "Get started",
+                "altText": "",
+                "url": "JOIN US ON DISCORD",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ]
     },
