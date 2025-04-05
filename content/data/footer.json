@@ -30,17 +30,6 @@
         "title": "",
         "links": [
             {
-                "type": "Link",
-                "label": "JOIN US ON TELEGRAM",
-                "altText": "",
-                "url": "https://t.me/botcoindollar",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
                 "type": "Button",
                 "label": "JOIN US ON DISCORD",
                 "altText": "",
