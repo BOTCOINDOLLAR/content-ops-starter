@@ -48,7 +48,8 @@
                 "icon": "facebook",
                 "iconPosition": "left",
                 "style": "secondary",
-                "elementId": ""
+                "elementId": "",
+                "label": "JOIN US ON TELEGRAM"
             }
         ]
     },
