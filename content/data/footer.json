@@ -41,17 +41,6 @@
                 "elementId": ""
             },
             {
-                "type": "Link",
-                "altText": "",
-                "url": "https://discord.gg/J4W4Yjtu",
-                "showIcon": true,
-                "icon": "facebook",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": "",
-                "label": "JOIN US ON DISCORD"
-            },
-            {
                 "type": "Button",
                 "label": "JOIN US ON DISCORD",
                 "altText": "",
