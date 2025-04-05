@@ -55,7 +55,7 @@
                 "type": "Button",
                 "label": "JOIN US ON DISCORD",
                 "altText": "",
-                "url": "JOIN US ON DISCORD",
+                "url": "",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
