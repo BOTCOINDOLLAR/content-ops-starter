@@ -39,6 +39,16 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "altText": "Facebook",
+                "url": "https://discord.gg/J4W4Yjtu",
+                "showIcon": true,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ]
     },
