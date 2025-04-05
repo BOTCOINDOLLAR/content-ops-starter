@@ -2,12 +2,6 @@
     "text": "<div style=\"text-align: center\">****</div>\n\n",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://x.com/botcoindollar",
             "icon": "twitter",
@@ -19,6 +13,12 @@
             "url": "https://www.youtube.com/@botcoindollar",
             "icon": "youtube",
             "elementId": ""
+        },
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/netlify",
+            "icon": "github",
+            "type": "Social"
         }
     ],
     "legalLinks": [],
